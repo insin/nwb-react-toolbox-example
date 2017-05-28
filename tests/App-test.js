@@ -15,9 +15,9 @@ describe('App component', () => {
     unmountComponentAtNode(node)
   })
 
-  it('displays a welcome message', () => {
+  it('renders', () => {
     render(<App/>, node, () => {
-      expect(node.textContent).toContain('Welcome to React')
+      expect(node.textContent).toContain('React Toolbox')
     })
   })
 })

@@ -1,3 +1,3 @@
 # nwb-react-toolbox-example
 
-Describe nwb-react-toolbox-example here.
+An example of configuring nwb to make use of [React Toolbox](http://www.react-toolbox.com/) in a React app.
